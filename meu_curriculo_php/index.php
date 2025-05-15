@@ -69,6 +69,9 @@
         "Phyton" => 8,
         "Java" => 7,
         "Hardware" => 9,
+        "Inglês" => 8,
+        "Espanhol" => 9,
+        "Francês iniciante" => 6
 
     ];
 
