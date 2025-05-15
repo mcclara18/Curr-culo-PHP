@@ -10,7 +10,6 @@ body {
     color: #333;
 }
 
-
 header {
     background-color: #150334;
     color: white;
@@ -43,7 +42,6 @@ header {
     color: #ccc;
 }
 
-/* Seções */
 section {
     max-width: 1000px;
     margin: 30px auto;
@@ -61,7 +59,6 @@ section h2 {
     color: #222;
 }
 
-/* Listagens (experiências e cursos) */
 ul {
     list-style-type: none;
     padding-left: 0;
